@@ -1,7 +1,7 @@
-# Adrian Moreno - History, Homelab, Projects
-Documenting my tech journey, starting with projects for Virtualization, Active Directory, and related concepts!
+# Adrian Moreno - Homelab/Projects
+Documenting my tech journey, starting with projects for Virtualization, Active Directory, and related concepts. I've just started learning various concepts in networking, security, and foundational principles in computing! At the moment I'm trying to learn and take in everything I can because I believe that you can never stop learning! I'm fully committed to this journey and am excited to see where it goes.
 
-# **Active Directory and Virtualization**
+# Project - **Active Directory and Virtualization**
  - When starting my homelab, the main skills that I wanted to learn and build upon were understanding how virtualization worked and how Active Directory would function in a enterprise setting. To get started, I spun up two virtual machines, a client and a server, to mimic an environment that would be found within a standard business. When creating the virtual machines, it taught me how the basics of virtualization work and how to properly manage them within your host device.
  For Active Directory, I started by creating a client VM and joining it to my domain that I had created on the Windows Server (homelab.local)
 - ![Creation of the VM and joining to the domain](/docs/assets/Homelab1.png)
